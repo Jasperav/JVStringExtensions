@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVStringExtensions_Tests' do
+  pod 'JVStringExtensions', :path => '../'
+  
+  
+end
