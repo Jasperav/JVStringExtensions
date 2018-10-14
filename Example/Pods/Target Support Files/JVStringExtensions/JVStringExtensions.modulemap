@@ -1,0 +1,6 @@
+framework module JVStringExtensions {
+  umbrella header "JVStringExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}

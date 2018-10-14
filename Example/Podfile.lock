@@ -1,0 +1,16 @@
+PODS:
+  - JVStringExtensions (0.1.0)
+
+DEPENDENCIES:
+  - JVStringExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  JVStringExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVStringExtensions: ffe5b71209a7ae8849f71c1191cd7c3480e14768
+
+PODFILE CHECKSUM: bdc71e6225365419a0ac5b6483e2f865c046c505
+
+COCOAPODS: 1.6.0.beta.1
